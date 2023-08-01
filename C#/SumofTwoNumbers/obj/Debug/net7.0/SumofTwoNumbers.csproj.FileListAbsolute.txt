@@ -1,0 +1,15 @@
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\SumofTwoNumbers\bin\Debug\net7.0\SumofTwoNumbers.exe
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\SumofTwoNumbers\bin\Debug\net7.0\SumofTwoNumbers.deps.json
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\SumofTwoNumbers\bin\Debug\net7.0\SumofTwoNumbers.runtimeconfig.json
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\SumofTwoNumbers\bin\Debug\net7.0\SumofTwoNumbers.dll
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\SumofTwoNumbers\bin\Debug\net7.0\SumofTwoNumbers.pdb
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\SumofTwoNumbers\obj\Debug\net7.0\SumofTwoNumbers.csproj.AssemblyReference.cache
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\SumofTwoNumbers\obj\Debug\net7.0\SumofTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\SumofTwoNumbers\obj\Debug\net7.0\SumofTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\SumofTwoNumbers\obj\Debug\net7.0\SumofTwoNumbers.AssemblyInfo.cs
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\SumofTwoNumbers\obj\Debug\net7.0\SumofTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\SumofTwoNumbers\obj\Debug\net7.0\SumofTwoNumbers.dll
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\SumofTwoNumbers\obj\Debug\net7.0\refint\SumofTwoNumbers.dll
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\SumofTwoNumbers\obj\Debug\net7.0\SumofTwoNumbers.pdb
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\SumofTwoNumbers\obj\Debug\net7.0\SumofTwoNumbers.genruntimeconfig.cache
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\SumofTwoNumbers\obj\Debug\net7.0\ref\SumofTwoNumbers.dll
