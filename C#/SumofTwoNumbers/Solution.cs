@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 
 namespace SumofTwoNumbers
 {
-    public class Solution
+    public static class Solution
     {
-        public int[] TwoSum(int[] nums, int target)
+        public static int[] TwoSum(int[] nums, int target)
         {
             for (int i = nums.Length - 1; i >= 0; i--)
             {
@@ -21,8 +21,7 @@ namespace SumofTwoNumbers
                 }
             }
             // If no solution is found, you can return null or an empty array
-            return new int[0];
+            return Array.Empty<int>();
         }
-
     }
 }

@@ -1,14 +1,13 @@
 ﻿namespace SumofTwoNumbers;
-class SumofTwoNumbers
+
+static class SumofTwoNumbers
 {
     public static void Main(string[] args)
     {
         int[] nums = { 2, 7, 11, 15 };
-        int target = 9;
-
-        Solution solution1 = new Solution();
+        const int target = 9;
         Console.WriteLine(SumTwo(12, 34));
-        int[] result = solution1.TwoSum(nums, target);
+        int[] result = Solution.TwoSum(nums, target);
 
         if (result.Length == 2)
         {
@@ -22,6 +21,6 @@ class SumofTwoNumbers
 
     private static string SumTwo(int a, int b)
     {
-        return ("The sum of " + a + " and " + b + " is: " + (a + b));
+        return "The sum of " + a + " and " + b + " is: " + (a + b);
     }
 }
