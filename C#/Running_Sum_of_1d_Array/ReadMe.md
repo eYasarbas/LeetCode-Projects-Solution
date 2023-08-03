@@ -1,4 +1,3 @@
-Markdown formatında yazmak için şöyle yapabilirsiniz:
 
 ```markdown
 # Running Sum of 1d Array
