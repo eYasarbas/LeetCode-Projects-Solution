@@ -1,0 +1,15 @@
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\PalindromeNumber\bin\Debug\net7.0\PalindromeNumber.exe
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\PalindromeNumber\bin\Debug\net7.0\PalindromeNumber.deps.json
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\PalindromeNumber\bin\Debug\net7.0\PalindromeNumber.runtimeconfig.json
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\PalindromeNumber\bin\Debug\net7.0\PalindromeNumber.dll
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\PalindromeNumber\bin\Debug\net7.0\PalindromeNumber.pdb
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\PalindromeNumber\obj\Debug\net7.0\PalindromeNumber.csproj.AssemblyReference.cache
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\PalindromeNumber\obj\Debug\net7.0\PalindromeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\PalindromeNumber\obj\Debug\net7.0\PalindromeNumber.AssemblyInfoInputs.cache
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\PalindromeNumber\obj\Debug\net7.0\PalindromeNumber.AssemblyInfo.cs
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\PalindromeNumber\obj\Debug\net7.0\PalindromeNumber.csproj.CoreCompileInputs.cache
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\PalindromeNumber\obj\Debug\net7.0\PalindromeNumber.dll
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\PalindromeNumber\obj\Debug\net7.0\refint\PalindromeNumber.dll
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\PalindromeNumber\obj\Debug\net7.0\PalindromeNumber.pdb
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\PalindromeNumber\obj\Debug\net7.0\PalindromeNumber.genruntimeconfig.cache
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\PalindromeNumber\obj\Debug\net7.0\ref\PalindromeNumber.dll
