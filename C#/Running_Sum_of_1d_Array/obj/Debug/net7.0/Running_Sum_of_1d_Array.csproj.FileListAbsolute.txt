@@ -1,0 +1,15 @@
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\Running_Sum_of_1d_Array\bin\Debug\net7.0\Running_Sum_of_1d_Array.exe
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\Running_Sum_of_1d_Array\bin\Debug\net7.0\Running_Sum_of_1d_Array.deps.json
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\Running_Sum_of_1d_Array\bin\Debug\net7.0\Running_Sum_of_1d_Array.runtimeconfig.json
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\Running_Sum_of_1d_Array\bin\Debug\net7.0\Running_Sum_of_1d_Array.dll
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\Running_Sum_of_1d_Array\bin\Debug\net7.0\Running_Sum_of_1d_Array.pdb
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\Running_Sum_of_1d_Array\obj\Debug\net7.0\Running_Sum_of_1d_Array.csproj.AssemblyReference.cache
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\Running_Sum_of_1d_Array\obj\Debug\net7.0\Running_Sum_of_1d_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\Running_Sum_of_1d_Array\obj\Debug\net7.0\Running_Sum_of_1d_Array.AssemblyInfoInputs.cache
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\Running_Sum_of_1d_Array\obj\Debug\net7.0\Running_Sum_of_1d_Array.AssemblyInfo.cs
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\Running_Sum_of_1d_Array\obj\Debug\net7.0\Running_Sum_of_1d_Array.csproj.CoreCompileInputs.cache
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\Running_Sum_of_1d_Array\obj\Debug\net7.0\Running_Sum_of_1d_Array.dll
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\Running_Sum_of_1d_Array\obj\Debug\net7.0\refint\Running_Sum_of_1d_Array.dll
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\Running_Sum_of_1d_Array\obj\Debug\net7.0\Running_Sum_of_1d_Array.pdb
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\Running_Sum_of_1d_Array\obj\Debug\net7.0\Running_Sum_of_1d_Array.genruntimeconfig.cache
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\Running_Sum_of_1d_Array\obj\Debug\net7.0\ref\Running_Sum_of_1d_Array.dll
