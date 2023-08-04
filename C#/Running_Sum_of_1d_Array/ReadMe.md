@@ -1,4 +1,3 @@
-
 ```markdown
 # Running Sum of 1d Array
 
@@ -28,5 +27,3 @@ Output: [3,4,6,16,17]
 - 1 <= nums.length <= 1000
 - -10^6 <= nums[i] <= 10^6
 ```
-
-Umarım bu cevap işinize yarar. Başka bir sorunuz varsa lütfen bana bildirin. 😊
