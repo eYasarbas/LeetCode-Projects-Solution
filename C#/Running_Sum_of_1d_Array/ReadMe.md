@@ -1,6 +1,3 @@
-Markdown formatında yazmak için şöyle yapabilirsiniz:
-
-```markdown
 # Running Sum of 1d Array
 
 Given an array nums. We define a running sum of an array as runningSum[i] = sum(nums[0]…nums[i]).
@@ -28,6 +25,3 @@ Output: [3,4,6,16,17]
 
 - 1 <= nums.length <= 1000
 - -10^6 <= nums[i] <= 10^6
-```
-
-Umarım bu cevap işinize yarar. Başka bir sorunuz varsa lütfen bana bildirin. 😊
