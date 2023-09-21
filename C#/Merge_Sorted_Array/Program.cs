@@ -10,12 +10,13 @@ public class Program
     {
         int[] nums1 = { 1, 2, 3, 0, 0, 0 };
         int[] nums2 = { 2, 5, 6 };
-
         int m = 3;
         int n = 3;
-        Solution solution =new Solution();
-        //Console.WriteLine(solution.Merge(nums1, m, nums2, n).ToList());
-        Console.WriteLine(String.Join(", ", solution.Merge(nums1, m, nums2, n).ToArray()));
+
+        Solution solution = new Solution();
+        List<int> mergedList = solution.Merge(nums1, m, nums2, n);
+        string output = string.Join(", ", mergedList);
+        Console.WriteLine(output);
 
 
     }

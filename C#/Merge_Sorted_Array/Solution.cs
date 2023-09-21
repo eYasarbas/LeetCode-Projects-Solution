@@ -1,7 +1,5 @@
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace Merge_Sorted_Array
 {
@@ -11,15 +9,16 @@ namespace Merge_Sorted_Array
         {
             List<int> newList = new List<int>(m + n);
 
-            for (var i = 0; i < m ; i++)
+            for (var i = 0; i < m; i++)
             {
                 newList.Add(nums1[i]);
             }
 
-            for (var j = 0; j < n ; j++)
+            for (var j = 0; j < n; j++)
             {
                 newList.Add(nums2[j]);
             }
+
             newList.Sort();
             return newList;
         }
