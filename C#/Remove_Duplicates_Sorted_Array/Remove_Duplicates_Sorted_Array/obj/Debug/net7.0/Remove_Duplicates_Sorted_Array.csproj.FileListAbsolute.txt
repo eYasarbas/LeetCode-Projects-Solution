@@ -1,0 +1,14 @@
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\Remove_Duplicates_Sorted_Array\Remove_Duplicates_Sorted_Array\bin\Debug\net7.0\Remove_Duplicates_Sorted_Array.exe
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\Remove_Duplicates_Sorted_Array\Remove_Duplicates_Sorted_Array\bin\Debug\net7.0\Remove_Duplicates_Sorted_Array.deps.json
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\Remove_Duplicates_Sorted_Array\Remove_Duplicates_Sorted_Array\bin\Debug\net7.0\Remove_Duplicates_Sorted_Array.runtimeconfig.json
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\Remove_Duplicates_Sorted_Array\Remove_Duplicates_Sorted_Array\bin\Debug\net7.0\Remove_Duplicates_Sorted_Array.dll
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\Remove_Duplicates_Sorted_Array\Remove_Duplicates_Sorted_Array\bin\Debug\net7.0\Remove_Duplicates_Sorted_Array.pdb
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\Remove_Duplicates_Sorted_Array\Remove_Duplicates_Sorted_Array\obj\Debug\net7.0\Remove_Duplicates_Sorted_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\Remove_Duplicates_Sorted_Array\Remove_Duplicates_Sorted_Array\obj\Debug\net7.0\Remove_Duplicates_Sorted_Array.AssemblyInfoInputs.cache
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\Remove_Duplicates_Sorted_Array\Remove_Duplicates_Sorted_Array\obj\Debug\net7.0\Remove_Duplicates_Sorted_Array.AssemblyInfo.cs
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\Remove_Duplicates_Sorted_Array\Remove_Duplicates_Sorted_Array\obj\Debug\net7.0\Remove_Duplicates_Sorted_Array.csproj.CoreCompileInputs.cache
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\Remove_Duplicates_Sorted_Array\Remove_Duplicates_Sorted_Array\obj\Debug\net7.0\Remove_Duplicates_Sorted_Array.dll
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\Remove_Duplicates_Sorted_Array\Remove_Duplicates_Sorted_Array\obj\Debug\net7.0\refint\Remove_Duplicates_Sorted_Array.dll
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\Remove_Duplicates_Sorted_Array\Remove_Duplicates_Sorted_Array\obj\Debug\net7.0\Remove_Duplicates_Sorted_Array.pdb
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\Remove_Duplicates_Sorted_Array\Remove_Duplicates_Sorted_Array\obj\Debug\net7.0\Remove_Duplicates_Sorted_Array.genruntimeconfig.cache
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\Remove_Duplicates_Sorted_Array\Remove_Duplicates_Sorted_Array\obj\Debug\net7.0\ref\Remove_Duplicates_Sorted_Array.dll
