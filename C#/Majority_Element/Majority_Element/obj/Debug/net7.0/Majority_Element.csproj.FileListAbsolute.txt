@@ -1,0 +1,14 @@
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\Majority_Element\Majority_Element\bin\Debug\net7.0\Majority_Element.exe
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\Majority_Element\Majority_Element\bin\Debug\net7.0\Majority_Element.deps.json
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\Majority_Element\Majority_Element\bin\Debug\net7.0\Majority_Element.runtimeconfig.json
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\Majority_Element\Majority_Element\bin\Debug\net7.0\Majority_Element.dll
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\Majority_Element\Majority_Element\bin\Debug\net7.0\Majority_Element.pdb
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\Majority_Element\Majority_Element\obj\Debug\net7.0\Majority_Element.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\Majority_Element\Majority_Element\obj\Debug\net7.0\Majority_Element.AssemblyInfoInputs.cache
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\Majority_Element\Majority_Element\obj\Debug\net7.0\Majority_Element.AssemblyInfo.cs
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\Majority_Element\Majority_Element\obj\Debug\net7.0\Majority_Element.csproj.CoreCompileInputs.cache
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\Majority_Element\Majority_Element\obj\Debug\net7.0\Majority_Element.dll
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\Majority_Element\Majority_Element\obj\Debug\net7.0\refint\Majority_Element.dll
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\Majority_Element\Majority_Element\obj\Debug\net7.0\Majority_Element.pdb
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\Majority_Element\Majority_Element\obj\Debug\net7.0\Majority_Element.genruntimeconfig.cache
+C:\Users\Enes\Documents\MyProjects\LeetCode\C#\Majority_Element\Majority_Element\obj\Debug\net7.0\ref\Majority_Element.dll
