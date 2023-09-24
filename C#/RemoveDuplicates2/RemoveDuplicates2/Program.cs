@@ -11,12 +11,16 @@ public class Program
             {
                 if (i + 2 < nums2.Count)
                 {
+                    var x = nums2[i];
+                    var y = nums2[i + 1];
+                    var z = nums2[i + 2];
+                    if (x == y)
 
-                    if (nums2[i] == nums2[i + 1] && nums2[i] == nums[i + 2])
-                    {
-                        nums2.RemoveAt(i + 2);
-                        i--;
-                    }
+                        if (y == z)
+                        {
+                            nums2.Remove(z);
+                            i--;
+                        }
                 }
 
                 i++;
@@ -25,11 +29,9 @@ public class Program
             return nums2;
         }
 
-        int[] nums = { 0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3 };
+        int[] nums = { 1, 1, 1, 2, 2, 3 };
         var result = RemoveDuplicates(nums);
-        foreach (var VARIABLE in result)
-        {
-            Console.WriteLine(VARIABLE);
-        }
+        Console.WriteLine(result.Count);
+        foreach (var VARIABLE in result) Console.WriteLine(VARIABLE);
     }
 }
